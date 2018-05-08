@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="623cf0f8-c026-44e7-a2f8-77a4b94094de" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/OrderedDict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HistoryRecord.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonUseSkills$HistoryRecord.coverage" NAME="HistoryRecord Coverage Results" MODIFIED="1525767823132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonUseSkills$StatisticalFrequency.coverage" NAME="StatisticalFrequency Coverage Results" MODIFIED="1525751585179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonUseSkills$FillterData.coverage" NAME="FillterData Coverage Results" MODIFIED="1525702313358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonUseSkills$SameKey.coverage" NAME="SameKey Coverage Results" MODIFIED="1525762508308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -51,13 +52,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderedDict.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OrderedDict.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OrderedDict.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
               <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#76#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HistoryRecord.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HistoryRecord.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="e#76#128#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,6 +108,7 @@
         <option value="$PROJECT_DIR$/ElementName.py" />
         <option value="$PROJECT_DIR$/SameKey.py" />
         <option value="$PROJECT_DIR$/OrderedDict.py" />
+        <option value="$PROJECT_DIR$/HistoryRecord.py" />
       </list>
     </option>
   </component>
@@ -158,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.OrderedDict">
+  <component name="RunManager" selected="Python.HistoryRecord">
     <configuration name="ElementName" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,7 +192,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="FillterData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HistoryRecord" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -191,7 +205,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonUseSkills" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FillterData.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HistoryRecord.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,19 +269,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.FillterData" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ElementName" />
-      <item index="2" class="java.lang.String" itemvalue="Python.StatisticalFrequency" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SameKey" />
-      <item index="4" class="java.lang.String" itemvalue="Python.OrderedDict" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ElementName" />
+      <item index="1" class="java.lang.String" itemvalue="Python.StatisticalFrequency" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SameKey" />
+      <item index="3" class="java.lang.String" itemvalue="Python.OrderedDict" />
+      <item index="4" class="java.lang.String" itemvalue="Python.HistoryRecord" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.OrderedDict" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SameKey" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ElementName" />
-        <item index="3" class="java.lang.String" itemvalue="Python.StatisticalFrequency" />
-        <item index="4" class="java.lang.String" itemvalue="Python.FillterData" />
+        <item index="0" class="java.lang.String" itemvalue="Python.HistoryRecord" />
+        <item index="1" class="java.lang.String" itemvalue="Python.OrderedDict" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SameKey" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ElementName" />
+        <item index="4" class="java.lang.String" itemvalue="Python.StatisticalFrequency" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +303,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -296,7 +311,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24659607" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24659607" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -389,6 +404,16 @@
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#76#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HistoryRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#76#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
